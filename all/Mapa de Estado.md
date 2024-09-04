@@ -8,5 +8,5 @@ stateDiagram-v2
     Crash --> [*]
 
 stateDiagram-v1
- [*]
+ [*] -->
 ```
