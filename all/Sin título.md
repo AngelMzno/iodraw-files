@@ -6,7 +6,7 @@ graph TD
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
 
- stateDiagram-v2
+stateDiagram-v2
 [*]-->STATE_INIT
 STATE_INIT --> STATE_RED
 STATE_RED --> STATE_GREEN
