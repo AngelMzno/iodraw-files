@@ -9,6 +9,7 @@ stateDiagram-v2
 
 Hello1
  [*] --> Start
- Start --> 
+ Start --> [*]
+ 
 
 ```
