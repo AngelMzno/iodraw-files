@@ -7,9 +7,6 @@ stateDiagram-v2
     Moving --> Crash
     Crash --> [*]
 
-Hello1
- [*] --> Start
- Start --> [*]
- 
+
 
 ```
