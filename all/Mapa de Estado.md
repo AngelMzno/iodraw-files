@@ -7,7 +7,7 @@ stateDiagram-v2
     Moving --> Crash
     Crash --> [*]
 
-[*]-->STATE_INIT
+TE_INIT
 STATE_INIT --> STATE_RED
 STATE_RED --> STATE_GREEN
 STATE_BLUE -->STATE_GREEN_RED
