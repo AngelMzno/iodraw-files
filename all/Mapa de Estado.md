@@ -7,8 +7,8 @@ stateDiagram-v2
     Moving --> Crash
     Crash --> [*]
 
-stateDiagram-v1
+stateDiagram2-v1
  [*] --> Start
- start --> Fin
- 
+ Start --> Fin
+
 ```
