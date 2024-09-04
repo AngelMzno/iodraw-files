@@ -1,6 +1,6 @@
 ```mermaid
 stateDiagram-v2 
-[*]-->STATE_INIT
+[*]-->STATE_INIT 
 STATE_INIT -->  STATE_RED :SW2
 STATE_RED --> STATE_GREEN
 STATE_GREEN-->STATE_BLUE
