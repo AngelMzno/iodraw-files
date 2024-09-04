@@ -1,12 +1,12 @@
 ```mermaid
-
+graph TD
     A[fa:fa-user Tom] -->|Get money| B(Go shopping)
     B --> C{Select}
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
 
-stateDiagram-v2
+//stateDiagram-v2
 [*]-->STATE_INIT
 STATE_INIT --> STATE_RED
 STATE_RED --> STATE_GREEN
