@@ -7,7 +7,7 @@ stateDiagram-v2
     Moving --> Crash
     Crash --> [*]
 
-stateDiagram2-v1
+He-v1
  [*] --> Start
  Start --> Fin
 
