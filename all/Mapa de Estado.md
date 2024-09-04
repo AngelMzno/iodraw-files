@@ -9,5 +9,5 @@ stateDiagram-v2
 
 stateDiagram-v1
  [*] --> Start
- s
+ start -->
 ```
