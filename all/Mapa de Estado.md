@@ -8,7 +8,7 @@ stateDiagram-v2
     Crash --> [*]
 
 [*]-->STATE_INIT
-
+STATE_INIT
 
 
 ```
