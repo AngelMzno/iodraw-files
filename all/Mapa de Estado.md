@@ -8,5 +8,6 @@ stateDiagram-v2
     Crash --> [*]
 
 stateDiagram-v1
- [*] -->
+ [*] --> Start
+ s
 ```
