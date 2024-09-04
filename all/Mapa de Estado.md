@@ -9,7 +9,9 @@ stateDiagram-v2
 
 [*]-->STATE_INIT
 STATE_INIT --> STATE_RED
-STATE_RED --
+STATE_RED --> STATE_GREEN
+STATE_BLUE
+
 
 
 ```
