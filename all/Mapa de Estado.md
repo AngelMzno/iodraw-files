@@ -1,5 +1,5 @@
 ```mermaid
-stateDiagram-v2
+stateDiagram-v2 TD
 [*]-->STATE_INIT
 STATE_INIT --> |Get money| STATE_RED
 STATE_RED --> STATE_GREEN
